@@ -1,3 +1,0 @@
-lint:
-  disabled_codes:
-    - C0111  # may be overkill for short, private, easy-to-understand functions
